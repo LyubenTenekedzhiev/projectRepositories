@@ -1,6 +1,10 @@
 # projectRepositories
 # Instead of creating different branches, I decided to link the repositories to some of my projects.
 
+# yarn/npm install -> if(gulp) //gulp watch || npm/yarn run watch; 
+#                     if(react) // yarn/npm start
+
+
 # First React project //Still in development process - not finished yet!
 https://github.com/LyubenTenekedzhiev/ReactBurgerBuilder
 
