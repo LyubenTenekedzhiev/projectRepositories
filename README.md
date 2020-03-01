@@ -9,11 +9,14 @@
 # First React project //Still in development process - not finished yet!
 https://github.com/LyubenTenekedzhiev/ReactBurgerBuilder
 
-# Hackathon01 - a simple website
+# Hackathon01 - a simple website (HTML, CSS)
 https://github.com/LyubenTenekedzhiev/hackathon01
 
-# Hackathon02 - Pacman game
+# Hackathon02 - Pacman game (JavaScript)
 https://github.com/soaresilva/pacman
+
+# Hackathon03 - Vet clinic (Laravel, PHP)
+https://github.com/soaresilva/veterinary-clinic
 
 # Website from Udemy course
 https://github.com/LyubenTenekedzhiev/udemyWebsite
