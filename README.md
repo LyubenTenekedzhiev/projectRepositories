@@ -5,12 +5,14 @@
 #                     if(gulp) //gulp watch || npm/yarn run watch; 
 #                     if(react) // yarn/npm start
 
+# First deployed MVP project - Carbon Footprint Calculator
+http://carbon-calculator.codeboot.cz/
 
-# First React project //Still in development process - not finished yet!
-https://github.com/LyubenTenekedzhiev/ReactBurgerBuilder
-
-# Second React project 
+# Second React project - A mini version of Netflix
 https://github.com/LyubenTenekedzhiev/movies-online
+
+# Third React project //Still in development process - not finished yet!
+https://github.com/LyubenTenekedzhiev/ReactBurgerBuilder
 
 # Hackathon01 - a simple website (HTML, CSS)
 https://github.com/LyubenTenekedzhiev/hackathon01
