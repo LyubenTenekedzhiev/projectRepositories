@@ -1,17 +1,20 @@
 # projectRepositories
-# Instead of creating different branches, I decided to link the repositories to some of my projects.
+# Hello stranger! Enjoy!
 
 # yarn/npm install 
 #                     if(gulp) //gulp watch || npm/yarn run watch; 
 #                     if(react) // yarn/npm start
 
-# First deployed MVP project - Carbon Footprint Calculator
+# Personal Portfolio
+https://lyubentenekedzhiev.web.app/
+
+# Carbon Footprint Calculator - MVP version
 http://carbon-calculator.codeboot.cz/
 
-# Second React project - A mini version of Netflix
+# FooNetflixBar- A mini version of Netflix
 https://github.com/LyubenTenekedzhiev/movies-online
 
-# Third React project //Still in development process - not finished yet!
+# Burger Builder //Still in development process - not finished yet!
 https://github.com/LyubenTenekedzhiev/ReactBurgerBuilder
 
 # Hackathon01 - a simple website (HTML, CSS)
@@ -25,9 +28,6 @@ https://github.com/soaresilva/veterinary-clinic
 
 # Website from Udemy course
 https://github.com/LyubenTenekedzhiev/udemyWebsite
-
-# Portfolio //Trying to dive deeper in React and rebuild it later so it's definitely not finished yet! 
-https://github.com/LyubenTenekedzhiev/LyubenTenekedzhiev.github.io
 
 # Javascript Calculator
 https://github.com/LyubenTenekedzhiev/calculator
