@@ -1,8 +1,8 @@
 # projectRepositories
-ProjectRepositories is the place, where you can find some of my works. Enjoy!
+Here you can have a look at some of my past work. Enjoy!
 
 ## Installation
-After choosing a project which you want to visit, open its repository by clicking the given link. Find the green button "clone or download" and copy the link from there. Create a new folder, navigate to it with your terminal and execute:
+After choosing a project, which you want to visit, open its repository by clicking the given link. Find the green button "clone or download" and copy the link from there. Create a new folder, navigate to it with your terminal and execute:
 ```terminal
 git clone HereYouPasteTheCopiedLink
 ```
