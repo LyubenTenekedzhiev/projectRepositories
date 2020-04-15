@@ -1,9 +1,13 @@
 # projectRepositories
-# Hello stranger! Enjoy!
+Hello stranger! Enjoy!
 
-# yarn/npm install 
-#                     if(gulp) //gulp watch || npm/yarn run watch; 
-#                     if(react) // yarn/npm start
+## Installation
+Use a package manager and run the following commands.
+```react
+yarn/npm install 
+                    if(gulp) //gulp watch || npm/yarn run watch; 
+                    if(react) // yarn/npm start
+                    ```
 
 
 
