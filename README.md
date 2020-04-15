@@ -7,11 +7,9 @@ After choosing a project, which you want to visit, open its repository by clicki
 git clone  PasteTheCopiedLinkHere
 ```
 After the repository is cloned on your local machine, install the dependencies and run the starting scripts:
-Install
 ```terminal
 yarn/npm install
 ```
-Run
 ```terminal
 if(gulp)  gulp watch || npm/yarn run watch; 
 if(react)  yarn/npm start
