@@ -15,11 +15,11 @@ if(react) // yarn/npm start
 
 
 
-# Projects
-## Personal Portfolio
+## Projects
+### Personal Portfolio
 https://lyubentenekedzhiev.web.app/
 
-## Carbon Footprint Calculator - MVP version
+### Carbon Footprint Calculator - MVP version
 http://carbon-calculator.codeboot.cz/
 
 ## FooNetflixBar- A mini version of Netflix
