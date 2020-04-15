@@ -4,7 +4,7 @@ Here you can have a look at some of my past work. Enjoy!
 ## Installation
 After choosing a project, which you want to visit, open its repository by clicking the given link. Find the green button "clone or download" and copy the link from there. Create a new folder, navigate to it with your terminal and execute:
 ```terminal
-git clone HereYouPasteTheCopiedLink
+git clone  PasteTheCopiedLinkHere
 ```
 After the repository is cloned on your local machine, install the dependencies and run the starting scripts:
 ```terminal
