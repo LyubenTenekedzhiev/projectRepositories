@@ -2,12 +2,12 @@
 Hello stranger! Enjoy!
 
 ## Installation
-Use a package manager and run the following commands.
+Use a package manager for this step.
 ```react
 yarn/npm install 
-                    if(gulp) //gulp watch || npm/yarn run watch; 
-                    if(react) // yarn/npm start
-                    ```
+if(gulp) //gulp watch || npm/yarn run watch; 
+if(react) // yarn/npm start
+```
 
 
 
