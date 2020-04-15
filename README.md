@@ -9,8 +9,8 @@ git clone HereYouPasteTheCopiedLink
 After the repository is cloned on your local machine, install the dependencies and run the starting scripts:
 ```terminal
 yarn/npm install 
-if(gulp) //gulp watch || npm/yarn run watch; 
-if(react) // yarn/npm start
+if(gulp)  gulp watch || npm/yarn run watch; 
+if(react)  yarn/npm start
 ```
 
 
