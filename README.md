@@ -19,12 +19,10 @@ if(react)  yarn/npm start
 
 ## Projects
 ### Personal Portfolio
-https://github.com/LyubenTenekedzhiev/portfolio
-https://lyubentenekedzhiev.web.app/
+Code: https://github.com/LyubenTenekedzhiev/portfolio  Deployed version: https://lyubentenekedzhiev.web.app/
 
 ### Carbon Footprint Calculator - MVP version
-https://github.com/soaresilva/cfc
-http://carbon-calculator.codeboot.cz/
+Code: https://github.com/soaresilva/cfc  Delpoyed version: http://carbon-calculator.codeboot.cz/
 
 ### FooNetflixBar- A mini version of Netflix
 https://github.com/LyubenTenekedzhiev/movies-online
@@ -33,8 +31,7 @@ https://github.com/LyubenTenekedzhiev/movies-online
 https://github.com/LyubenTenekedzhiev/ReactBurgerBuilder
 
 ### SpaceX Rockets - Rocket sprites created with Pixi.js
-https://github.com/LyubenTenekedzhiev/SpaceX-rockets
-https://spacex-rockets.netlify.app/
+Code: https://github.com/LyubenTenekedzhiev/SpaceX-rockets  Deployed version: https://spacex-rockets.netlify.app/
 
 ### Hackathon01 - a simple website (HTML, CSS)
 https://github.com/LyubenTenekedzhiev/hackathon01
