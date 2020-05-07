@@ -30,6 +30,9 @@ https://github.com/LyubenTenekedzhiev/movies-online
 ### Burger Builder //Still in development process - not finished yet!
 https://github.com/LyubenTenekedzhiev/ReactBurgerBuilder
 
+### SpaceX Rockets - Rocket sprites created with Pixi.js
+https://github.com/LyubenTenekedzhiev/SpaceX-rockets
+
 ### Hackathon01 - a simple website (HTML, CSS)
 https://github.com/LyubenTenekedzhiev/hackathon01
 
