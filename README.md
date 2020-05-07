@@ -21,8 +21,8 @@ if(react)  yarn/npm start
 ### Personal Portfolio
 Code: https://github.com/LyubenTenekedzhiev/portfolio  Deployed version: https://lyubentenekedzhiev.web.app/
 
-### Carbon Footprint Calculator - MVP version
-Code: https://github.com/soaresilva/cfc  Delpoyed version: http://carbon-calculator.codeboot.cz/
+### Carbon Footprint Calculator
+Code: https://github.com/soaresilva/cfc  Delpoyed MVP version: http://carbon-calculator.codeboot.cz/
 
 ### FooNetflixBar- A mini version of Netflix
 https://github.com/LyubenTenekedzhiev/movies-online
