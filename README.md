@@ -47,6 +47,3 @@ https://github.com/LyubenTenekedzhiev/udemyWebsite
 
 ### Javascript Calculator
 https://github.com/LyubenTenekedzhiev/calculator
-
-### Fetching data from a localhost with PHP and rendering it with React
-https://github.com/LyubenTenekedzhiev/fetchingDataFromPHP
